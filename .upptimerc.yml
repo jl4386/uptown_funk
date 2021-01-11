@@ -6,8 +6,8 @@ repo: uptown_funk # Your GitHub repository name
 sites:
   - name: Desty Official Site
     url: https://www.desty.app
-  - name: Secret Site
-    url: $SECRET_SITE
+#  - name: Secret Site
+#    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

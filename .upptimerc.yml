@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptown_funk
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static.desty.page/desty-app/img/Destylogo.b99f349.svg
   name: Desty
   introTitle: ""
   introMessage: Downtime monitoring for Desty

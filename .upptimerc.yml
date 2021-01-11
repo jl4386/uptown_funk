@@ -19,7 +19,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /uptown_funk
   logoUrl: https://static.desty.page/desty-app/img/Destylogo.b99f349.svg
-  name: Desty
+  name:
   introTitle: ""
   introMessage: Downtime monitoring for Desty
   navbar:

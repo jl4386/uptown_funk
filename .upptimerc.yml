@@ -6,6 +6,10 @@ repo: uptown_funk # Your GitHub repository name
 sites:
   - name: Desty Official Site
     url: https://www.desty.app
+  - name: Sample page
+    url: https://desty.page/sneakershoot
+  - name: Sample store
+    url: https://desty.store/campcoffee
 #  - name: Secret Site
 #    url: $SECRET_SITE
 

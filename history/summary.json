@@ -40,7 +40,7 @@
     "url": "https://desty.store/campcoffee",
     "icon": "https://favicons.githubusercontent.com/desty.store",
     "slug": "sample-store",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 1835,
     "timeYear": 1837,
     "dailyMinutesDown": {
+      "2021-03-01": 0,
       "2021-01-14": 111
     }
   }

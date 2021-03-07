@@ -22,18 +22,20 @@
     "url": "https://desty.page/sneakershoot",
     "icon": "https://favicons.githubusercontent.com/desty.page",
     "slug": "sample-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1209,
-    "timeDay": 1181,
-    "timeWeek": 1200,
-    "timeMonth": 1221,
-    "timeYear": 1209,
-    "dailyMinutesDown": {}
+    "time": 1212,
+    "timeDay": 1279,
+    "timeWeek": 1222,
+    "timeMonth": 1226,
+    "timeYear": 1212,
+    "dailyMinutesDown": {
+      "2021-03-07": 0
+    }
   },
   {
     "name": "Sample store",

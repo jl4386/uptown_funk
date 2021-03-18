@@ -1,7 +1,7 @@
 url: https://desty.store/campcoffee
-status: up
-code: 200
-responseTime: 1597
-lastUpdated: 2021-03-17T23:18:01.009Z
+status: down
+code: 500
+responseTime: 1339
+lastUpdated: 2021-03-18T11:56:34.675Z
 startTime: Mon Jan 11 2021 03:41:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
